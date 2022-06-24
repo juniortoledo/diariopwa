@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "description": "Notícias",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icons/svelte.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "name": "Diário da Região",
+  "orientation": "portrait",
+  "short_name": "Diário da Região",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
